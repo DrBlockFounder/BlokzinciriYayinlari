@@ -17,4 +17,6 @@ Konacaklı, Enis. Ulusal güvenlik için blokzinciri tabanlı siber güvenlik mo
 
 5. Blokzincirde Güvenli ve Güvenilir Uygulama Geliştirme Temelleri
 
+Enis Karaarslan, Melih Birim, “Blokzincirde Güvenli ve Güvenilir Uygulama Geliştirme Temelleri”, Siber Güvenlik ve Savunma: Blokzinciri ve Kriptografi, p 1-48, Nobel Yayınevi, 2021
+
 6. Blokzincirinin Askeri Lojistik Takip Sistemlerinde Kullanılması
