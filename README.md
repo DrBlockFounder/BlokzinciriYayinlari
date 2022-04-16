@@ -3,8 +3,8 @@ Türkçe blokzinciri yayınlarımız
 
 Yayınlar ve referans vermek için:
 
-1. Blokzinciri tabanlı siber güvenlik sistemleri (2017)
-
+1. Blokzinciri tabanlı siber güvenlik sistemleri (2017) [a relative link](01_2017_BLOKZİNCİRİ TABANLI SİBER GÜVENLİK SİSTEMLERİ.pdf)
+) 
 Karaarslan, Enis, and Muhammet Fatih Akbaş. "Blokzinciri tabanli siber güvenlik sistemleri." Uluslararası Bilgi Güvenliği Mühendisliği Dergisi 3.2 (2017): 16-21.
 
 2. Blokzinciri Teknolojisinin E-Devlet Uygulamalarında Kullanımı: Ön İnceleme (2018)
