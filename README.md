@@ -22,6 +22,8 @@ Enis Karaarslan, Melih Birim, “Blokzincirde Güvenli ve Güvenilir Uygulama Ge
 6. Blokzincirinin Askeri Lojistik Takip Sistemlerinde Kullanılması (2021)
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 Diğerleri için:
 
 Bütün yayinlarima Google scholar sayfamdan 
