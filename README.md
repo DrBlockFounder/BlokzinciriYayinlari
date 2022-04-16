@@ -20,3 +20,16 @@ Konacaklı, Enis. Ulusal güvenlik için blokzinciri tabanlı siber güvenlik mo
 Enis Karaarslan, Melih Birim, “Blokzincirde Güvenli ve Güvenilir Uygulama Geliştirme Temelleri”, Siber Güvenlik ve Savunma: Blokzinciri ve Kriptografi, p 1-48, Nobel Yayınevi, 2021
 
 6. Blokzincirinin Askeri Lojistik Takip Sistemlerinde Kullanılması (2021)
+
+
+Diğerleri için:
+
+Bütün yayinlarima Google scholar sayfamdan 
+
+https://scholar.google.com/citations?user=D3dqZ5UAAAAJ&hl=tr&oi=ao
+
+
+
+ve researchgate den ulaşabilirsiniz. Bu sistem üzerinden yayın hakkı olan çalışmaları talep edebilirsiniz
+
+https://www.researchgate.net/profile/Enis-Karaarslan
