@@ -13,16 +13,16 @@ Durğay, Zübeyir, and Enis Karaarslan. "Blokzinciri teknolojisinin e-devlet uyg
 
 3. Ulusal güvenlik için blokzinciri tabanlı siber güvenlik modeli (2019)
 
-Konacaklı, Enis. Ulusal güvenlik için blokzinciri tabanlı siber güvenlik modeli. Yüksek Lisans Tezi. Eskişehir Teknik Üniversitesi, 2019
+Konacaklı, Enis. "Ulusal güvenlik için blokzinciri tabanlı siber güvenlik modeli". Yüksek Lisans Tezi. Eskişehir Teknik Üniversitesi (2019)
 
 4. Blokzincirde Güvenli ve Güvenilir Uygulama Geliştirme Temelleri (2021)
 
-Enis Karaarslan, Melih Birim, “Blokzincirde Güvenli ve Güvenilir Uygulama Geliştirme Temelleri”, Siber Güvenlik ve Savunma: Blokzinciri ve Kriptografi, p 1-48, Nobel Yayınevi, 2021
+Enis Karaarslan, Melih Birim, “Blokzincirde Güvenli ve Güvenilir Uygulama Geliştirme Temelleri”, Siber Güvenlik ve Savunma: Blokzinciri ve Kriptografi, p 1-48, Nobel Yayınevi (2021)
 
 5. Blokzincirinin Askeri Lojistik Takip Sistemlerinde Kullanılması (2021)
 
 
-Enis Konacaklı, Enis Karaarslan, “Blokzincirinin Askeri Lojistik Takip Sistemlerinde Kullanılması”, Siber Güvenlik ve Savunma: Blokzinciri ve Kriptografi, p 217-237, Nobel Yayınevi, 2021
+Enis Konacaklı, Enis Karaarslan, “Blokzincirinin Askeri Lojistik Takip Sistemlerinde Kullanılması”, Siber Güvenlik ve Savunma: Blokzinciri ve Kriptografi, p 217-237, Nobel Yayınevi (2021)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
