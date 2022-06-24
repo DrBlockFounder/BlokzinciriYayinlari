@@ -6,6 +6,8 @@ Yayınlar ve referans vermek için:
 1. Blokzinciri tabanlı siber güvenlik sistemleri (2017)
 
 Karaarslan, Enis, and Muhammet Fatih Akbaş. "Blokzinciri tabanli siber güvenlik sistemleri." Uluslararası Bilgi Güvenliği Mühendisliği Dergisi 3.2 (2017): 16-21.
+https://dergipark.org.tr/en/pub/ubgmd/issue/33645/373297
+
 
 2. Blokzinciri Teknolojisinin E-Devlet Uygulamalarında Kullanımı: Ön İnceleme (2018)
 
@@ -19,11 +21,14 @@ Konacaklı, Enis. "Ulusal güvenlik için blokzinciri tabanlı siber güvenlik m
 
 Enis Karaarslan, Melih Birim, “Blokzincirde Güvenli ve Güvenilir Uygulama Geliştirme Temelleri”, Siber Güvenlik ve Savunma: Blokzinciri ve Kriptografi, p 1-48, Nobel Yayınevi (2021)
 
+http://acikerisim.mu.edu.tr/xmlui/handle/20.500.12809/9937
+
 5. Blokzincirinin Askeri Lojistik Takip Sistemlerinde Kullanılması (2021)
 
 
 Enis Konacaklı, Enis Karaarslan, “Blokzincirinin Askeri Lojistik Takip Sistemlerinde Kullanılması”, Siber Güvenlik ve Savunma: Blokzinciri ve Kriptografi, p 217-237, Nobel Yayınevi (2021)
 
+http://acikerisim.mu.edu.tr/xmlui/handle/20.500.12809/10013
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
